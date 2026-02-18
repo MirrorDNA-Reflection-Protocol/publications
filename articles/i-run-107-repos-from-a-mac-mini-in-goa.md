@@ -1,4 +1,4 @@
-# I Run 57 Repos from a Mac Mini in Mumbai
+# I Run 107 Repos from a Mac Mini in Goa
 
 > **Author:** Paul Desai
 > **Date:** 2026-02-18T17:00:00+05:30
@@ -12,8 +12,8 @@ This is what sovereign AI infrastructure actually looks like.
 
 ## The Stack
 
-- **Mac Studio M4 Max** — primary compute. Runs Ollama (7 models loaded), 8 services, 3 LaunchAgents, and Claude Code
-- **Mac mini M4** — secondary node. Syncthing mesh, backup Ollama instance
+- **Mac mini M4 (24GB)** — primary compute. Not even a Pro. Runs Ollama (14 models loaded), 15 services, 34 LaunchAgents, and Claude Code. The base model Mac mini. That's it.
+- **Mac mini M1 (Red)** — secondary node. Syncthing mesh, backup Ollama instance
 - **Pixel 9 Pro XL** — mobile command center. Tasker automation, Termux, MirrorBrain app, push-to-talk to Claude
 - **OnePlus 15** — secondary phone. Same stack, doubles as hotspot when ISP goes down (today, actually)
 - **Tailscale mesh** — everything talks to everything, anywhere, encrypted
@@ -28,7 +28,7 @@ Total cloud spend: $0/month.
 - **Beacon** — publishing platform with automated content pipeline
 - **Cognitive Dashboard** — real-time system health, device status, AI activity feed
 - **Memory Bus** — cross-session state persistence, agent handoffs, recall
-- **57 repositories** — from governance layers to phone automation scripts
+- **107 repositories** — from governance layers to phone automation scripts
 
 All of it self-healing. If a service dies, a LaunchAgent restarts it. If a phone disconnects, the mesh reroutes. If the internet goes down... well, I'm writing this on a phone hotspot.
 
@@ -58,4 +58,4 @@ If you're building something similar, or you're in India and want to collaborate
 
 ---
 
-*Paul Desai is building MirrorOS — reflective AI infrastructure for autonomous systems. Based in Mumbai. Doesn't use the cloud.*
+*Paul Desai is building MirrorOS — reflective AI infrastructure for autonomous systems. Based in Goa. Doesn't use the cloud.*

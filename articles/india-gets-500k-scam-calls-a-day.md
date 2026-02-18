@@ -6,7 +6,7 @@
 
 ---
 
-Last year, Indians lost over $10 billion to digital scams. UPI collect-request fraud. Voice clones pretending to be your bank. Phishing links that look exactly like SBI's login page. WhatsApp forwards with "KYC expiring" threats.
+Last year, Indians lost over Rs 11,333 crore to cyber fraud (per RBI 2024 data). UPI collect-request fraud. Voice clones pretending to be your bank. Phishing links that look exactly like SBI's login page. WhatsApp forwards with "KYC expiring" threats.
 
 The government responds with awareness campaigns. The platforms respond with disclaimers. Neither works.
 
