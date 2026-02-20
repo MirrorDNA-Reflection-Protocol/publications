@@ -1,6 +1,14 @@
 # Why Your AI Agent Needs a Constitution
 
 > **Author:** Paul Desai
+> **Date:** 2026-02-20
+> **Tags:** ai-governance, agents, safety, guardrails, constitution, architecture
+
+---
+
+# Why Your AI Agent Needs a Constitution
+
+> **Author:** Paul Desai
 > **Date:** 2026-02-18T16:30:00+05:30
 > **Tags:** ai-governance, agents, safety, guardrails, constitution, architecture, mirrorgate
 
