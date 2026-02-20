@@ -1,6 +1,14 @@
 # India Gets 500K Scam Calls a Day. I Built an AI to Fight Back.
 
 > **Author:** Paul Desai
+> **Date:** 2026-02-20
+> **Tags:** india, scam-detection, ai, chetana, kavach, upi-fraud, on-device, privacy
+
+---
+
+# India Gets 500K Scam Calls a Day. I Built an AI to Fight Back.
+
+> **Author:** Paul Desai
 > **Date:** 2026-02-18T16:00:00+05:30
 > **Tags:** india, scam-detection, ai, chetana, kavach, upi-fraud, on-device, privacy
 
