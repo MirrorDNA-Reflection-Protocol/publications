@@ -1,6 +1,14 @@
 # I Run 107 Repos from a Mac Mini in Goa
 
 > **Author:** Paul Desai
+> **Date:** 2026-02-20
+> **Tags:** sovereign-ai, infrastructure, indie-hacker, building-in-public, india, local-first
+
+---
+
+# I Run 107 Repos from a Mac Mini in Goa
+
+> **Author:** Paul Desai
 > **Date:** 2026-02-18T17:00:00+05:30
 > **Tags:** sovereign-ai, infrastructure, indie-hacker, building-in-public, india, local-first
 
